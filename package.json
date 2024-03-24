@@ -1,0 +1,14 @@
+{
+  "name": "@wcd/jhlee111.plainlit-lu50j212",
+  "version": "0.0.0",
+  "description": "",
+  "license": "ISC",
+  "type": "module",
+  "homepage": "{{ homepage }}",
+  "scripts": {
+    "serve": "npx wcd-cli@latest serve RbflNdmtUgkobm0eE32T --open"
+  },
+  "dependencies": {
+    "lit-html": "^1"
+  }
+}
